@@ -1,8 +1,8 @@
 <?php
 
-$xpdo_meta_map = array(
-    'xPDOSimpleObject' =>
-        array(
-            0 => 'addOptPriceItem',
-        ),
+$xpdo_meta_map = array (
+  'xPDOSimpleObject' => 
+  array (
+    0 => 'addOptPrice',
+  ),
 );
